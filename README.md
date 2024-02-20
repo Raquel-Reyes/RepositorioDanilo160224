@@ -1,2 +1,2 @@
-# RepositorioDanilo160224
+# RepositorioDanilo
 Demostración de una creación de un repositorio y ejercicios con Git
